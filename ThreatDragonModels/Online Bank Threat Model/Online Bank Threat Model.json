@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Online Bank Threat Model",
+    "owner": "Blacklight",
+    "description": "A financial institution that is\ndeveloping a new online banking application. Our focus will revolve\naround modelling threats and vulnerabilities for this online banking\napplication.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "e-bank",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "e-bank STRIDE"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Cybersecurity Architect",
+    "threatTop": 0
+  }
+}
